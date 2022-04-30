@@ -1,6 +1,0 @@
-2022-04-26 23:25:40,094 - DEBUG    - server   - Start... 
-2022-04-26 23:25:40,097 - INFO     - server   - ('127.0.0.1', 7777) 
-2022-04-26 23:25:57,794 - INFO     - server   - ('127.0.0.1', 64400) 
-2022-04-26 23:25:57,795 - INFO     - server   - Data received from ('127.0.0.1', 64400) : {'action': 'presence', 'time': '2022-04-26 23:25:43', 'type': 'status', 'user': {'account_name': 'bri', 'status': 'Connected'}} 
-2022-04-26 23:27:02,214 - ERROR    - server   - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение 
-2022-04-26 23:27:02,225 - DEBUG    - server   - End... 
