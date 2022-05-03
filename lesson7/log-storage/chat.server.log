@@ -1,0 +1,35 @@
+2022-05-03 20:37:07,143 - DEBUG    - server   - Start... 
+2022-05-03 20:37:07,158 - DEBUG    - utils    - Function "parser" is called into "main_serv" 
+2022-05-03 20:37:07,158 - DEBUG    - utils    - Function "get_serv_socket" is called into "main_serv" 
+2022-05-03 20:37:07,158 - INFO     - server   - ('127.0.0.1', 7777) 
+2022-05-03 20:37:17,020 - INFO     - server   - Client connected from 127.0.0.1:57129 
+2022-05-03 20:39:58,550 - DEBUG    - server   - Start... 
+2022-05-03 20:39:58,581 - DEBUG    - utils    - Function "parser" is called into "main_serv" 
+2022-05-03 20:39:58,581 - DEBUG    - utils    - Function "get_serv_socket" is called into "main_serv" 
+2022-05-03 20:39:58,581 - INFO     - server   - ('127.0.0.1', 7777) 
+2022-05-03 20:40:03,452 - INFO     - server   - Client connected from 127.0.0.1:57133 
+2022-05-03 20:44:06,592 - DEBUG    - server   - Start... 
+2022-05-03 20:44:06,623 - DEBUG    - utils    - Function "parser" is called into "main_serv" 
+2022-05-03 20:44:06,623 - DEBUG    - utils    - Function "get_serv_socket" is called into "main_serv" 
+2022-05-03 20:44:06,623 - INFO     - server   - ('127.0.0.1', 7777) 
+2022-05-03 20:44:11,468 - INFO     - server   - Client connected from 127.0.0.1:57139 
+2022-05-03 20:44:41,460 - DEBUG    - server   - Start... 
+2022-05-03 20:44:41,476 - DEBUG    - utils    - Function "parser" is called into "main_serv" 
+2022-05-03 20:44:41,476 - DEBUG    - utils    - Function "get_serv_socket" is called into "main_serv" 
+2022-05-03 20:44:41,476 - INFO     - server   - ('127.0.0.1', 7777) 
+2022-05-03 20:44:49,411 - INFO     - server   - Client connected from 127.0.0.1:57140 
+2022-05-03 20:45:34,486 - DEBUG    - server   - Start... 
+2022-05-03 20:45:34,517 - DEBUG    - utils    - Function "parser" is called into "main_serv" 
+2022-05-03 20:45:34,517 - DEBUG    - utils    - Function "get_serv_socket" is called into "main_serv" 
+2022-05-03 20:45:34,517 - INFO     - server   - ('127.0.0.1', 7777) 
+2022-05-03 20:45:38,815 - INFO     - server   - Client connected from 127.0.0.1:57154 
+2022-05-03 20:46:06,236 - DEBUG    - server   - Start... 
+2022-05-03 20:46:06,251 - DEBUG    - utils    - Function "parser" is called into "main_serv" 
+2022-05-03 20:46:06,251 - DEBUG    - utils    - Function "get_serv_socket" is called into "main_serv" 
+2022-05-03 20:46:06,251 - INFO     - server   - ('127.0.0.1', 7777) 
+2022-05-03 20:46:12,974 - INFO     - server   - Client connected from 127.0.0.1:57155 
+2022-05-03 20:48:04,834 - DEBUG    - server   - Start... 
+2022-05-03 20:48:04,849 - DEBUG    - utils    - Function "parser" is called into "main_serv" 
+2022-05-03 20:48:04,849 - DEBUG    - utils    - Function "get_serv_socket" is called into "main_serv" 
+2022-05-03 20:48:04,849 - INFO     - server   - ('127.0.0.1', 7777) 
+2022-05-03 20:48:25,875 - INFO     - server   - Client connected from 127.0.0.1:53112 

@@ -9,6 +9,7 @@ DEFAULT_IP_ADDRESS = '127.0.0.1'
 DEFAULT_PORT = 7777
 CONNECTIONS = 6
 
+
 server_logger = logging.getLogger('chat.server')
 client_logger = logging.getLogger('chat.client')
 
@@ -46,7 +47,7 @@ def send_data(sent, data):
 
 @log
 def get_data(sender):
-    return json.loads(sender.recv(1024).decode('utf-8'))
+    return json.loads(sender.recv(1048576).decode('utf-8'))
 
 
 @log

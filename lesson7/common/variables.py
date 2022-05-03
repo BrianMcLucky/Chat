@@ -7,7 +7,7 @@ RESPONSE = {
     "time": str(TIME),
     "alert": None,
     "from": "Server",
-    "contacts": None
+    "contacts": []
 }
 
 PRESENCE = {
@@ -23,6 +23,7 @@ PRESENCE = {
 MESSAGE = {
     "action": "msg",
     "time": str(TIME),
+    "from": None,
     "to": None,
     "message": None
 }
@@ -30,4 +31,5 @@ MESSAGE = {
 SERVER_RESP = (
     ('200', 'OK'),
     ('401', 'Не авторизован'),
+    ('404', 'Not found')
 )

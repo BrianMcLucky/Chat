@@ -1,0 +1,46 @@
+2022-05-03 20:37:14,132 - DEBUG    - client   - Start... 
+2022-05-03 20:37:17,020 - DEBUG    - utils    - Function "parser" is called into "main" 
+2022-05-03 20:37:17,020 - DEBUG    - utils    - Function "get_user_socket" is called into "main" 
+2022-05-03 20:37:17,020 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:37:17,020 - INFO     - client   - Presence send to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2022-05-03 20:37:14', 'type': 'status', 'user': {'account_name': 'br', 'status': 'Connected'}} 
+2022-05-03 20:40:01,344 - DEBUG    - client   - Start... 
+2022-05-03 20:40:03,436 - DEBUG    - utils    - Function "parser" is called into "main" 
+2022-05-03 20:40:03,436 - DEBUG    - utils    - Function "get_user_socket" is called into "main" 
+2022-05-03 20:40:03,452 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:40:03,452 - INFO     - client   - Presence send to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2022-05-03 20:40:01', 'type': 'status', 'user': {'account_name': 'br', 'status': 'Connected'}} 
+2022-05-03 20:40:07,944 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:40:18,303 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:40:23,388 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:40:25,822 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:44:09,251 - DEBUG    - client   - Start... 
+2022-05-03 20:44:11,453 - DEBUG    - utils    - Function "parser" is called into "main" 
+2022-05-03 20:44:11,468 - DEBUG    - utils    - Function "get_user_socket" is called into "main" 
+2022-05-03 20:44:11,468 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:44:11,468 - INFO     - client   - Presence send to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2022-05-03 20:44:09', 'type': 'status', 'user': {'account_name': 'br', 'status': 'Connected'}} 
+2022-05-03 20:44:14,323 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:44:20,410 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:44:43,400 - DEBUG    - client   - Start... 
+2022-05-03 20:44:49,396 - DEBUG    - utils    - Function "parser" is called into "main" 
+2022-05-03 20:44:49,396 - DEBUG    - utils    - Function "get_user_socket" is called into "main" 
+2022-05-03 20:44:49,411 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:44:49,411 - INFO     - client   - Presence send to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2022-05-03 20:44:43', 'type': 'status', 'user': {'account_name': 'br', 'status': 'Connected'}} 
+2022-05-03 20:44:52,129 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:45:05,280 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:45:36,582 - DEBUG    - client   - Start... 
+2022-05-03 20:45:38,815 - DEBUG    - utils    - Function "parser" is called into "main" 
+2022-05-03 20:45:38,815 - DEBUG    - utils    - Function "get_user_socket" is called into "main" 
+2022-05-03 20:45:38,815 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:45:38,815 - INFO     - client   - Presence send to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2022-05-03 20:45:36', 'type': 'status', 'user': {'account_name': 'br', 'status': 'Connected'}} 
+2022-05-03 20:45:42,389 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:45:51,140 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:46:11,066 - DEBUG    - client   - Start... 
+2022-05-03 20:46:12,974 - DEBUG    - utils    - Function "parser" is called into "main" 
+2022-05-03 20:46:12,974 - DEBUG    - utils    - Function "get_user_socket" is called into "main" 
+2022-05-03 20:46:12,974 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:46:12,974 - INFO     - client   - Presence send to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2022-05-03 20:46:11', 'type': 'status', 'user': {'account_name': 'br', 'status': 'Connected'}} 
+2022-05-03 20:48:20,427 - DEBUG    - client   - Start... 
+2022-05-03 20:48:25,875 - DEBUG    - utils    - Function "parser" is called into "main" 
+2022-05-03 20:48:25,875 - DEBUG    - utils    - Function "get_user_socket" is called into "main" 
+2022-05-03 20:48:25,875 - DEBUG    - utils    - Function "send_data" is called into "main" 
+2022-05-03 20:48:25,875 - INFO     - client   - Presence send to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2022-05-03 20:48:20', 'type': 'status', 'user': {'account_name': 'br', 'status': 'Connected'}} 
+2022-05-03 20:48:36,241 - DEBUG    - utils    - Function "send_data" is called into "main" 
